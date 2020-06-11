@@ -36,7 +36,12 @@
     <Content Include="public\stylesheets\main.css" />
     <Content Include="README.md" />
     <Content Include="views\index.pug" />
-    <Content Include="views\layout.pug" />
+    <Content Include="views\header.pug" />
+    <Content Include="views\users.pug" />
+    <Content Include="views\mark.pug" />
+    <Content Include="views\matt.pug" />
+    <Content Include="views\yolanda.pug" />
+    <Content Include="views\chantel.pug" />
     <Content Include="views\error.pug" />
   </ItemGroup>
   <ItemGroup>
